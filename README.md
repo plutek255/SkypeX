@@ -1,4 +1,4 @@
-![SkypeX](raw.githubusercontent.com/plutek255/SkypeX/logo-icon.png)
+![SkypeX](raw.githubusercontent.com/plutek255/SkypeX/main/logo-icon.png)
 # SkypeX
 
 The Skype Extended Support Project
