@@ -14,7 +14,7 @@ A project built with passion and nostalgia for Skype on Windows 8.1.
 ---
 
 ### Phase 1: Collecting Information and Setting Up Infrastructure
-- Extract [main Skype files](SKYPE-ORIGINAL/)
+- Extract main Skype files
 - Analyze login flow and authentication
 - Document all [server endpoints](SKYPE-ORIGINAL/SERVER_ROUTES.md)
 - Technical jargon:
