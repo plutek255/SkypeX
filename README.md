@@ -3,8 +3,7 @@
 
 The Skype Extended Support Project
 
-![Liberapay Stats](https://img.shields.io/liberapay/patrons/plutek.svg?logo=liberapay)
-
+[SkypeX Stats](https://img.shields.io/liberapay/patrons/plutek.svg?logo=liberapay)
 A project built with passion and nostalgia for Skype on Windows 8.1.
 
 > SkypeX is a project that attempts to patch or install a modern-backended version of Skype, a version based on the Windows 8.1 app, that **in no way** changes Skype's appearance, but connects it to a modern chat backend, starting with Matrix.
