@@ -3,6 +3,7 @@
 
 The Skype Extended Support Project
 
+[![Donate](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/plutek/donate)    
 ![SkypeX Stats](https://img.shields.io/liberapay/goal/plutek.svg?logo=liberapay)
 
 A project built with passion and nostalgia for Skype on Windows 8.1.
